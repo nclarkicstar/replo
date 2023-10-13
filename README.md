@@ -1,70 +1,43 @@
-# Getting Started with Create React App
+# Maturity Scorecard Tool
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Project Overview
 
-## Available Scripts
+Welcome to the Maturity Scorecard Tool project by TechBridge Consulting (TBC). This project is being developed in collaboration with Medline as part of the i.c.stars Cycle 53 program.
 
-In the project directory, you can run:
+### About TechBridge Consulting (TBC)
 
-### `npm start`
+**Mission Statement:** Unifying Solutions, Diverse Insights: Embrace, Enrich, Excel
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+**Vision Statement:** To build solutions that empower business
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+**Values:** Innovation, Integrity, Inclusivity, Client-Centric Approach, Results-Driven, Transparency
 
-### `npm test`
+## Project Description
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+The Maturity Scorecard Tool is designed to help Medline improve its internal processes and practices. While the project is currently in development, here are some key highlights:
 
-### `npm run build`
+- **Objective**: The tool aims to provide a centralized platform for auditing and measuring various aspects of Medline's processes against defined standards and best practices.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- **Customization**: Users will have the ability to define new scorecards and criteria for conducting audits.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Getting Started
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+The project is currently under development, and this section will be updated with instructions for getting started with the tool once it's ready for use.
 
-### `npm run eject`
+## Project Team
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- TechBridge Consulting (TBC)
+  - Project Manager: Grant Cagape
+    - Email: gcagape@icstars.org
+  - Business Analyst: Victoria Muduc
+    - Email: vmuduc@icstars.org
+  - Technical Analyst: Nathan Clark
+    - Email: nclark@icstars.org
+  - Quality Analyst: Cecilia Orozco
+    - Email: corozco@icstars.org
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Contact Information
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+If you have any questions or need further information about the project, please contact our team using the provided email addresses.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Stay tuned for updates as we continue to develop and enhance the Maturity Scorecard Tool!
