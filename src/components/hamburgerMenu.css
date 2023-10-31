@@ -1,0 +1,44 @@
+.hamburger-menu {
+  position: relative;
+}
+
+.hamburger-btn {
+  background-color: transparent;
+  border: none;
+  font-size: 24px;
+  cursor: pointer;
+}
+
+.menu-list {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  position: absolute;
+  right: 0;
+  top: 100%;
+  border: 1px solid #ccc;
+  background-color: #ffffff;
+  z-index: 100;
+  width: 150px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.menu-list li {
+  padding: 10px 15px;
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+
+.menu-list li:hover {
+  background-color: #f5f5f5;
+}
+
+.menu-list li.logout {
+  color: #ffffff;
+  background-color: #f44336;
+  text-align: center;
+}
+
+.menu-list li.logout:hover {
+  background-color: #e53935;
+}
