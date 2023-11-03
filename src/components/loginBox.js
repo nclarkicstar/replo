@@ -19,6 +19,8 @@ const LoginBox = ({ onLogin }) => {
   };
 
   return (
+    <div className="login-box-main-div">
+      
     <div className="login-box">
       <input
         type="text"
@@ -33,6 +35,7 @@ const LoginBox = ({ onLogin }) => {
         onChange={handlePasswordChange}
       />
       <button onClick={handleSubmit}>Login</button>
+    </div>
     </div>
   );
 };

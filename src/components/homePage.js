@@ -5,18 +5,19 @@ import "./homePage.css";
 
 const HomePage = () => {
   return (
+    <div>
+      <HamburgerMenu />
     <div className="home-page">
-      <header className="home-header">
-        <h1>TechBridge</h1>
-        <HamburgerMenu />
-      </header>
+      {/* <header className="home-header">
+        <h1>ScoreCard</h1>
+        
+      </header> */}
 
       <main className="home-content">
-        <h2>Welcome to Our HomePage</h2>
-        <p>
-          This is our homepage! Here you'll find the option to audit and create
-          templates for scorecards
-        </p>
+        <h2>Medline ScoreCard Tool</h2>
+        <div className="home-page-image">
+          <img className="image-style" src="https://www.medline.com/wp-content/uploads/2023/05/home-banner-may-2023.webp"/>
+        </div>
         <div className="home-buttons">
           <Link to="/createTemplate" className="home-button">
             Create Template
@@ -26,6 +27,7 @@ const HomePage = () => {
           </Link>
         </div>
       </main>
+    </div>
     </div>
   );
 };

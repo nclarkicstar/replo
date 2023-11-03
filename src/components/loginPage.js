@@ -4,7 +4,7 @@ import LoginBox from "./loginBox";
 
 const LoginPage = ({ onLogin }) => {
   return (
-    <div className="login-page">
+    <div>
       <HamburgerMenu />
       <LoginBox onLogin={onLogin} />
     </div>

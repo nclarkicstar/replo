@@ -1,11 +1,15 @@
 .hamburger-menu {
   position: relative;
+  
 }
 
 .hamburger-btn {
+  color:white;
   background-color: transparent;
   border: none;
   font-size: 24px;
+  margin-left: 20px;
+  margin-top: 18px;
   cursor: pointer;
 }
 
@@ -41,4 +45,12 @@
 
 .menu-list li.logout:hover {
   background-color: #e53935;
+}
+
+.logo-image{
+  display:flex; 
+  flex-direction: row; 
+  justify-content: flex-start; 
+  align-items: start;
+  background-color:#0052cc;
 }
